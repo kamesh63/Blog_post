@@ -7,11 +7,8 @@ This is a Django-based blog application that allows users to create, edit, and m
 ### 🏠 Home Page
 ![Home Page](blog/images/post.png)
 
-### 📝 Create Post Page
-![Create Post](blog/images/admin_panel.png)
-
 ### 🔍 Post Detail Page
-![Post Detail](blog/images/post.png)
+![Post Detail](blog/images/admin_panel.png)
 
 ## 🚀 Features
 ✅ User Authentication  
